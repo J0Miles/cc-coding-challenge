@@ -72,16 +72,7 @@ const RecipesList = () => {
             console.log(matchedSpecials);
           }
         }
-
-
-
   };
-      // const specialsId = specials.map(special => special.ingredientId);
-      // console.log(specialsId);
-      // const match = currentRecipe.ingredients.filter(ingredient => specialsId.includes(ingredient.uuid));
-      // console.log(`Match Found: `, match);      
-
-  // };
 
   return (
     <div className="list row">
