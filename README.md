@@ -8,4 +8,4 @@ To install dependacies
 
 To run Webpack server with Babel transpiler
 
-**Note: this project was NOT bootrstraped with Create-React-App :)**
+**Note: this project was NOT bootstraped with Create-React-App :)**
